@@ -7,9 +7,6 @@ header {
   padding: 3vh;
 }
 
-/* specify min-width for time element to give 
-enough space for the span inside it to contain 
-3 digits without visibly moving the "time" text */
 time {
   min-width: 85px;
 }
